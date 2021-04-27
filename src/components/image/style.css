@@ -1,0 +1,21 @@
+.dialog {
+  box-shadow: 0 8px 6px -6px black;
+  z-index: 1;
+
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  bottom: auto;
+  right: auto;
+  width: 100%; /* Full width */
+  height: 100%;
+}
+
+.image {
+  width: 1000px;
+}
+
+.small {
+  width: 40px;
+}
